@@ -2,7 +2,7 @@
 
 I am a web developer currently studying web programming at UNSJ.
 
-![Cat waving](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Anxiety from Inside Out](https://i.pinimg.com/originals/2d/59/19/2d5919772a87a4b6d885ed33ed11e672.png)
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
