@@ -2,7 +2,7 @@
 
 I am a web developer currently studying web programming at UNSJ.
 
-![Animated waving cat](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
+
 
 ## Languages and Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
