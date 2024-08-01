@@ -14,9 +14,6 @@ I am a web developer currently studying web programming at UNSJ.
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## Featured Projects
-- [Snake Game](https://github.com/your_username/snake-game)
-- [Visitor Counter](https://github.com/your_username/visitor-counter)
 
 ## Contact
 - [Email](mailto:marcela.ah96@gmail.com)
