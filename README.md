@@ -1,7 +1,8 @@
 # Hi, I'm Marcela
 
-I am a web developer currently studying web programming at UNSJ.
+<h2 style="color: #39FF14;">Web Developer</h2>
 
+I am currently studying web programming at UNSJ.
 
 
 ## Languages and Tools
