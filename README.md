@@ -2,13 +2,16 @@
 <h1 align="center">Hi!,I'm Marcela 👋</h1>
 </div>
 
-About me
+<img src="estrella.gif" alt="Descripción de la imagen" width="30" height="30">  About me
+
+<img src="ositoCompu.gif" alt="Descripción de la imagen" width="300" height="200"> 
 
 -🎓 Web Development student at the National University of San Juan, Argentina.
 
--💻 I am motivated by the desire to apply my knowledge in a wide range of technological disciplines to create innovative and high-impact solutions.
+-🚀 I am motivated by the desire to apply my knowledge in a wide range of technological disciplines to create innovative and high-impact solutions.
 
--📚 My academic background has equipped me to solve complex problems efficiently, as well as develop websites.
+-📚 My academic background has equipped me to solve complex problems efficiently,
+as well as develop websites.
 
 -👀 Especially interested in frontend development, but also open to backend development.
 
