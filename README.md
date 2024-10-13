@@ -2,21 +2,37 @@
 <h1 align="center">Hi!,I'm Marcela 👋</h1>
 </div>
 
-![Welcome to my profile](https://github.com/Marcee09/Marcee09/blob/main/Welcome.png)
+About me
 
-## Languages and Tools
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+-🎓 Web Development student at the National University of San Juan, Argentina.
+
+-💻 I am motivated by the desire to apply my knowledge in a wide range of technological disciplines to create innovative and high-impact solutions.
+
+-📚 My academic background has equipped me to solve complex problems efficiently, as well as develop websites.
+
+-👀 Especially interested in frontend development, but also open to backend development.
+
+-🔍 Looking to collaborate on projects.
+
+
+
+## Languages
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</div>
+
 
 
 ## Contact
-- [Email](mailto:marcela.ah96@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF00D6?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/marceeherrer4/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcela.ah96@gmail.com)
+
+
+
 
 
 
